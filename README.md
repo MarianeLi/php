@@ -18,9 +18,8 @@ NetBeans
 
 O sistema conta com validações , que foram feita ultilizando Exceptions Personalizadas.
 Dentre elas: Verifica o cadastro dos dados registrado no banco.  
-Verifica se os campos para cadastra um cliente foram todos preenchidos   
 
-Scrip da tabelas do banco:
+Script da tabelas do banco:
 
 CREATE TABLE `usuario` (
   `id` bigint(10) NOT NULL AUTO_INCREMENT,
