@@ -17,9 +17,13 @@ NetBeans
 ### Validações :
 
 O sistema conta com validações , que foram feita ultilizando Exceptions Personalizadas.
-Dentre elas: Verifica o cadastro dos dados registrado no banco.  
+Dentre elas: Verifica o cadastro dos dados registrado no banco. 
 
-Script da tabelas do banco:
+*Para acessar a tela de cadastro na pasta > dist > ProjetoTreinamento.jar
+
+
+### Tabelas do Banco:
+As tabelas criadas no banco:(Scrip da tabelas):
 
 CREATE TABLE `usuario` (
   `id` bigint(10) NOT NULL AUTO_INCREMENT,
